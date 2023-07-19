@@ -105,4 +105,4 @@ curl -X GET "http://127.0.0.1:10010/api/v1/sentiment?input=I%20have%20no%20opini
 
 ###
 
-Built with ❤️ by [martinoywa](https://github.com/martinoywa).
+Built with ❤️ by @ArthurStarks
